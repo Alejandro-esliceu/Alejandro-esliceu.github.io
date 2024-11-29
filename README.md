@@ -1,9 +1,9 @@
 # Welcome to my website #
 ## This page is made for ##
 
-1 👾 People who *wants* to *talk* with me.
+1 👾 People who *want* to *talk* with me.
 
-2 📢 Talk of a lot of *themes*.
+2 📢 Talk about a lot of *topics*.
 
 3 🤖 *Interact* with other *people*.
 
